@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![sc2](https://github.com/Bhathiya29/SweatSync/assets/86801890/541248c8-866f-4e6f-83f2-8121a022c7b9)
+![sc3](https://github.com/Bhathiya29/SweatSync/assets/86801890/64bbfba8-4840-4ffc-ab23-ebb677a74442)
+![sc1](https://github.com/Bhathiya29/SweatSync/assets/86801890/ef1fc31a-760c-4958-bd0e-72b5f193898d)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
